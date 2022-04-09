@@ -1,0 +1,7 @@
+D:\School\CSharpFile\BookManagement\BookManagement\bin\Debug\BookManagement.exe.config
+D:\School\CSharpFile\BookManagement\BookManagement\bin\Debug\BookManagement.exe
+D:\School\CSharpFile\BookManagement\BookManagement\bin\Debug\BookManagement.pdb
+D:\School\CSharpFile\BookManagement\BookManagement\obj\Debug\BookManagement.csproj.AssemblyReference.cache
+D:\School\CSharpFile\BookManagement\BookManagement\obj\Debug\BookManagement.csproj.CoreCompileInputs.cache
+D:\School\CSharpFile\BookManagement\BookManagement\obj\Debug\BookManagement.exe
+D:\School\CSharpFile\BookManagement\BookManagement\obj\Debug\BookManagement.pdb
